@@ -1,8 +1,8 @@
 # HAM_SPAM_Mail_Classification
-This is a PoC project.The goal of the project
-is to classify the mail is HAM or SPAM. We tried different classifiers
-but finally we found that Nive bayes algorithm is giving good accuracy compared to all models.
-Steps involved to solve this problem:
+This is a PoC project.The goal of the project\n
+is to classify the mail is HAM or SPAM. I was tried different classifiers\n
+but finally i found that Nive bayes algorithm is giving good accuracy compared to all models.\n
+Steps involved to solve this problem:\n
 1.Import the libraries
 2.Load the dataset
 3.clean the data
